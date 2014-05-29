@@ -1,2 +1,2 @@
 
-$.backstretch("http://www.eelanmedia.com/wp-content/uploads/2014/01/antarctica.jpg");
+$.backstretch("http://www.hugdaily.org/wp-content/uploads/2012/01/best-of-charleston-sc.jpg");
